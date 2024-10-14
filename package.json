@@ -1,0 +1,14 @@
+{
+    "name": "allure-jasmine-bare",
+    "description": "bare repo to reproduce allure-jasmine bug",
+    "private": "true",
+    "packageManager": "yarn@1.22.22",
+    "devDependencies": {
+        "@types/jest": "29.5.13",
+        "allure-jasmine": "3.0.4",
+        "jest": "29.7.0",
+        "jest-jasmine2": "29.7.0",
+        "typescript": "^5.3.2",
+        "ts-jest": "29.2.5"
+    }
+}
